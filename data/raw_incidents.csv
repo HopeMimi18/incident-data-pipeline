@@ -1,0 +1,23 @@
+incident_id,reported_at,department,location,incident_type,severity,status,description
+INC-001,2026-10-01 08:15,Warehouse,Loading Bay,Slip/Fall,moderate,open,Worker slipped on a wet floor and reported wrist pain.
+INC-002,01/10/2026 09:40,Reception,Front Desk,Dizziness,Low,closed,Staff member felt dizzy and sat down.
+INC-003,2026/10/02 11:20,Warehouse,Aisle 4,Cut,HIGH,in review,Worker cut right hand on a metal edge.
+INC-004,2026-10-03 14:05,Operations,Parking Area,Vehicle,Severe,OPEN,Minor vehicle collision with reported neck discomfort.
+INC-005,2026-10-04 10:10,HR,Meeting Room,Fainting,critical,resolved,Employee fainted during a meeting and recovered after assistance.
+INC-006,2026-10-05 16:45,,Kitchen,Burn,med,open,Staff member touched a hot surface and sustained a small burn.
+INC-007,2026-10-06 07:55,Security,Main Gate,Trip,low,Closed,Security officer tripped over a cable with no visible injury.
+INC-008,2026-10-07 12:30,IT,Server Room,Electrical,urgent,in review,Technician reported a minor electrical shock while handling equipment.
+INC-009,2026-10-08 15:00,Warehouse,,Strain,Moderate,open,Employee reported lower back pain after lifting a heavy box.
+INC-010,2026-10-09 09:15,Finance,Office 2,Headache,LOW,resolved,Employee reported a headache and rested.
+INC-011,2026-10-10 13:50,Operations,Workshop,Cut,high,OPEN,Technician cut a finger while using a tool.
+INC-012,2026-10-11 18:25,Security,Main Gate,Assault,CRITICAL,in review,Security officer was struck during an altercation.
+INC-013,2026-10-12 08:40,Reception,Lobby,Slip/Fall,medium,closed,Visitor slipped near the entrance and reported ankle pain.
+INC-014,2026-10-13 10:00,IT,Office 5,Eye Strain,low,resolved,Employee reported eye strain after extended screen use.
+INC-015,2026-10-14 17:35,Warehouse,Loading Bay,Strain,HIGH,open,Worker reported shoulder pain after moving equipment.
+INC-015,2026-10-14 16:55,Warehouse,Loading Bay,Strain,moderate,open,Earlier duplicate record for the same incident.
+INC-016,2026-10-15 08:05,HR,Training Room,Allergic Reaction,severe,in review,Employee developed swelling after eating unknown food.
+INC-017,2026-10-16 11:45,Finance,Office 1,Trip,low,CLOSED,Employee tripped over a bag and reported no injury.
+INC-018,2026-10-17 14:20,Operations,Workshop,Burn,High,open,Worker sustained a burn from hot equipment.
+INC-019,bad-date,Warehouse,Aisle 2,Unknown,medium,open,Record contains an invalid date and should be rejected.
+,2026-10-18 09:10,Reception,Lobby,Dizziness,low,open,Record has no incident ID and should be rejected.
+INC-020,2026-10-18 19:05,Security,Parking Area,Vehicle,critical,OPEN,Security vehicle was involved in a collision; emergency assistance requested.
